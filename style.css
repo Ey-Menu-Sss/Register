@@ -1,0 +1,38 @@
+body{
+    color: white;
+}
+.container{
+    background-color: rgb(246, 80, 80);
+    width: 800px;
+    height: 570px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+.register{
+    /* display: flex; */
+    background-color: rgb(118, 17, 17);
+    width: 400px;
+    height: 450px;
+    margin: 0 auto;
+    padding: 20px 100px;
+}
+.java{
+    display: flex;
+}
+.boshjoy{
+    width: 200px;
+}
+.boshjoy2{
+    width: 165px;
+}
+button{
+    width: 400px;
+    height: 50px;
+    font-size: 30px;
+}
+button:hover{
+    text-shadow: 0 5px 10px rgb(216, 199, 199);
+    border-color: white;
+    background-color: grey;
+    color: white;
+}
